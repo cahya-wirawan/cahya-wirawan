@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I am Cahya 👋
+
+Hi, I am Cahya.
+I am System and Software Engineer with an interest in Machine Learning, especially NLP. Currently, I am working on Conversational AI, Text Generation, and Speech Recognition projects.
 
 ![Cahya's github stats](https://github-readme-stats.vercel.app/api?username=cahya-wirawan&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dark)
 
